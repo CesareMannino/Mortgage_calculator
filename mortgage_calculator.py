@@ -23,8 +23,4 @@ while principal > 0:
     
 
 
-
-#print(month)
-
-
 print ('{}'.format('Total months :'),month, '{} $'.format('Total paid :'),round(total_paid,2), '{}'.format('Remaining to be paid: '),round(principal))
